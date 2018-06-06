@@ -1,0 +1,10 @@
+{
+	"title": "Cogworks.Meganav.Deploy",
+	"description": "Umbraco Deploy support for Cogworks.Meganav.",
+	"company": "Cogworks",
+	"product": "Umbraco Meganav",
+	"copyright": "Copyright © 2018",
+	"version": "1.1.1",
+	"informationalVersion": null,
+	"fileVersion": "1.1.1"
+}
