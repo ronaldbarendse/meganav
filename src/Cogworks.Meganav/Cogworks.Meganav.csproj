@@ -31,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Constants.cs" />
-    <Compile Include="Enums\MeganavItem.cs" />
+    <Compile Include="Enums\ItemType.cs" />
     <Compile Include="Helpers\PreValueHelper.cs" />
     <Compile Include="Models\MeganavItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
